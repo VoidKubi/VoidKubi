@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VoidKubi.
+- 👀 I’m interested in programing.
+- 🌱 I’m currently learning Python.
+- 📫 You can reach me on discord. My username is void.kubi.
